@@ -12,6 +12,8 @@
 # Package caches
 elpa/
 eln-cache/
+.cache/
+.local/cache/
 
 # Org / temp exports
 *.org_archive
