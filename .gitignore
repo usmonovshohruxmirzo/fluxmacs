@@ -1,0 +1,27 @@
+# Emacs backup files
+*~
+\#*\#
+
+# Compiled elisp
+*.elc
+
+# Auto-save files
+#*#
+.#*
+
+# Package caches
+elpa/
+eln-cache/
+
+# Org / temp exports
+*.org_archive
+
+# Projectile cache
+.projectile
+
+# LSP / language servers
+lsp-session-v1
+.cache/
+
+# Doom/Emacs logs (if any later)
+*.log
